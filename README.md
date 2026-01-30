@@ -6,7 +6,7 @@
 
 > **A contactless Human-Computer Interaction (HCI) interface that controls the mouse, scroll, and system volume using real-time hand landmark detection.**
 
-![Demo](https://via.placeholder.com/800x400.png?text=Insert+Demo+GIF+Here)
+![Image](https://github.com/user-attachments/assets/2dd27af5-15a9-4021-8e1b-4c0776a33ce6)
 
 ## 📝 Overview
 This project implements a **State-Machine based Controller** using a standard RGB webcam. It leverages **Google's MediaPipe** for hand tracking and maps 3D landmarks to 2D system controls. It features "Zero-Latency" optimization for real-time performance.
